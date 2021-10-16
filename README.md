@@ -19,7 +19,7 @@ This repository contains implementation of given assessment. The working of data
 - [```Submission.ipynb```] python script, fetches database by establishing connection with MySQL server. and Make sure the XAMMP server is running while executing the script
 - The retrieved data is fitted into pandas dataframe for further table manipulation.
 - ```show_data()``` & ```getfile()``` functions are called to fetch the desired data rows and generating ```.csv``` and ```string``` file formats to specified path, accepting country names as parameters for filtering rows. 
-- For example: ```get_file("IND")``` generates [```IND.csv```] to the specified local path. CLick [here](https://github.com/Prateek0009/Incubyte_Assesment/Table/output) to see sample output files.
+- For example: ```get_file("IND")``` generates [```IND.csv```] to the specified local path. CLick [here](https://github.com/Prateek0009/Incubyte_Assesment_Submission/Table/output) to see sample output files.
 
 
 
